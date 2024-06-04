@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358098524881",
+    "project_id": "shoesapp-6697c",
+    "storage_bucket": "shoesapp-6697c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358098524881:android:d7fc365050d7d2098bc3f0",
+        "android_client_info": {
+          "package_name": "com.bytesthetic.shoesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSkkoSK_kyOyn-mybe7mEjn5q04eMGgPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
